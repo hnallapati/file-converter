@@ -3,4 +3,9 @@
   <groupId>file-converter</groupId>
   <artifactId>file-converter</artifactId>
   <version>1.0.0</version>
+  
+  
+  <dependencies>
+  	
+  </dependencies>
 </project>
